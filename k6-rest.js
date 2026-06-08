@@ -7,7 +7,7 @@ const SESSION_ID = __ENV.SESSION_ID;
 const IMPLEMENTATION = __ENV.IMPLEMENTATION;
 
 export const options = {
-    vus: 25,
+    vus: 30,
     duration: '30s',
 };
 
