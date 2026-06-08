@@ -1,5 +1,5 @@
 ---
-name: Rest.Controllers.C2000
+name: Rest.Controllers.C4000
 author: Humza
 description: Energy consumption measurement of ASP.NET Core REST Controllers under concurrent load
 active-nodes:
