@@ -1,5 +1,5 @@
 ---
-name: Rest.Controllers.C15
+name: Rest.Controllers.C20
 author: Humza
 description: Energy consumption measurement of ASP.NET Core REST Controllers under concurrent load
 active-nodes:
